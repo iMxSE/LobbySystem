@@ -1,0 +1,41 @@
+name: Hub
+version: 1.0
+main: us.insanity.Main
+authors: [iMarco]
+description: 
+commands:
+  gma:
+    description:
+    permission: hub.gma
+  gms:
+    description:
+    permission: hub.gms
+  gmc:
+    description:
+    permission: hub.gmc
+  broadcast:
+    description:
+    permission: hub.alert
+  alert:
+    description:
+    permission: hub.alert
+  cc:
+    description:
+    permission: hub.cc
+  fly:
+    description:
+    permission: hub.fly
+  help:
+    description:
+  ?:
+    description:
+  list:
+    description:
+  store:
+    description:
+  buy:
+    description:
+  teamspeak:
+    description:
+  ts:
+    description:
